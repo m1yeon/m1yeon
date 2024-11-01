@@ -1,4 +1,3 @@
-<!-- ## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="28" height="28" /> -->
 
 <!--
 **m1yeon/m1yeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,21 +12,35 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://hulrud.tistory.com/3
+
+https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#designer
+
+https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#designer
+
+https://kimasill.tistory.com/entry/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0
+
+https://velog.io/@oka1313/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0
+
+https://github.com/rzashakeri/beautify-github-profile
 -->
 
 <!-- 제목 부분 -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/00b73b0e-2639-4f25-bad4-ff836b7b50a3" height="250"/>
+  <img src="https://github.com/user-attachments/assets/00b73b0e-2639-4f25-bad4-ff836b7b50a3" height="250px"/>
 </div>
 
 <br>
 
 <!-- 간단 소개 -->
-<h3 align="center">It's ME!</h3>
-
-<div align="center" background-color="dfdfdf">
-  Hi there! I'm student of Webpublishing. <br>
-  I am very positive, I like to challenge myself.
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Front-Facing%20Baby%20Chick.png" alt="Front-Facing Baby Chick" width="60" height="60" />
+  <div>
+    Hi there! I'm student of Webpublishing. <br>
+    I am very positive, I like to challenge myself. <br>
+    If you have any questions, please contact me.
+  </div>
 </div>
 
 <br>
@@ -63,16 +76,17 @@ Here are some ideas to get you started:
 <!-- 내용 부분 contact -->
 <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="26" height="26" /> Contact <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="26" height="26" /></h3>
 <div align="center">
-  <a href="mailto:alds961@gamil.com"><img src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+  <a href="mailto:alds961@gamil.com"><img src="https://img.shields.io/badge/alds961@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
   &nbsp
   <a href="https://blog.naver.com/mi2969"><img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 </div>
 
 <br>
 
-<! -- GitHub Stats & Most Used Languages -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={m1yeon}&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={m1yeon})
-
-
+<!-- GitHub Stats & Most Used Languages -->
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="26" height="26" /> GitHub Stats & Most Used Languages <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="26" height="26" /></h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1yeon&layout=compact" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=m1yeon&show_icons=true&theme=radical" height="180px"/>
+</div>
 
